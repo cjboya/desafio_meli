@@ -1,0 +1,9 @@
+"""
+deberás elegir otros términos para el experimento que permitan
+enriquecer el análisis en un hipotético dashboard
+"""
+
+Hice un simple análisis de datos, con el csv obtenido, para mostrar algunos gráficos. 
+
+Utilice Jupyter Notebook 
+Python

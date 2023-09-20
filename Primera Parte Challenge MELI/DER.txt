@@ -1,0 +1,12 @@
++--------------+        +--------------+        +--------------+         +-------------+
+|   Customer   |        |    Order     |        |     Item     |         |   Category  |
++--------------+        +--------------+        +--------------+         +-------------+
+| Customer_ID  |-||--|<-| Order_ID     |-||--||-| Item_ID      |->|---||-| Category_ID |
+| Email        |        | Customer_ID  |        | Category_ID  |         | Name        |
+| First_Name   |        | Order_Date   |        | Description  |         | Path        |
+| Last_Name    |        | Total_Amount |        | Price        |         +-------------+
+| Gender       |        +--------------+        | Status       |        
+| Address      |                                | Created_Date |
+| Birth_Date   |                                | Modified_Date|
+| Phone        |                                +--------------+
++--------------+
